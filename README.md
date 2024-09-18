@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kate
 - 👀 I’m interested in running, cycling, hiking, cooking, and of course coding
-- 🌱 I’m currently teaching myself Javascript but hope to attend a bootcamp course in Software Development within the next couple of months
+- 🌱 I’m currently teaching myself Javascript but am starting a Software Development Bootcamp Course with Northcoders in October 2024
 - ⚡ Fun fact: I have run for England a couple of times 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 <!---
