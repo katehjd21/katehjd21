@@ -21,24 +21,17 @@ Welcome to my GitHub! I'm a Trainee Software Developer with a background in Phys
 
 ## 🧪 **Testing & Tools**
 
-Test-Driven Development (TDD), Jest, Supertest
-Git, GitHub for version control
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🌐 **Deployment & Hosting**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## 📋 **Methodologies**
-Agile, SCRUM, Paired Programming, Software Development Lifecycle (SDLC)
-
-## 🛠️ **Other**
-Accessibility testing with Lighthouse
-Technical communication and collaboration
 
 ## 🌟 **Featured Projects**
 ### 📌 Kates-NC-News
@@ -53,4 +46,5 @@ An interactive data visualization project showcasing insights with charts and gr
 
 ## 📫 **Connect with Me**
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kate-drew-657b6927b)
+
