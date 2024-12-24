@@ -4,37 +4,33 @@ Welcome to my GitHub! I'm a Junior Software Developer with a background in Physi
 
 🛠️ Technical Skills
 
-Languages & Frameworks
+💻 Languages & Frameworks
 JavaScript (ES6+), Node.js, React
 HTML5, CSS3 (Flexbox, Grid)
-Back-End & Databases
+🗄️ Back-End & Databases
 SQL, PostgreSQL (PSQL), Database Seeding, Migrations
-
-Testing & Tools
+🧪 Testing & Tools
 Test-Driven Development (TDD), Jest, Supertest
 Git, GitHub for version control
-Deployment & Hosting
+🌐 Deployment & Hosting
 Cloudflare, Netlify
-Methodologies
+📋 Methodologies
 Agile, SCRUM, Paired Programming, Software Development Lifecycle (SDLC)
-Other
+🛠️ Other
 Accessibility testing with Lighthouse
 Technical communication and collaboration
-
 🌟 Featured Projects
 
-Kates-NC-News
+📌 Kates-NC-News
 A full-stack news aggregation app with article sharing and commenting features.
-Tech Stack: Node.js, React, PostgreSQL, Jest
+🛠️ Tech Stack: Node.js, React, PostgreSQL, Jest
 
-Kates-NC-News-FE
+📌 Kates-NC-News-FE
 The front-end application for NC-News, built with React and deployed on Netlify.
 
-React Data Visualization
+📌 React Data Visualization
 An interactive data visualization project showcasing insights with charts and graphs.
 
-
 📫 Connect with Me
-
 
 🔗 LinkedIn: Kate Drew
