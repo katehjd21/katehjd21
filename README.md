@@ -1,9 +1,40 @@
-- 👋 Hi, I’m Kate
-- 👀 I’m interested in running, cycling, hiking, cooking, and of course coding
-- 🌱 I’m currently teaching myself Javascript but am starting a Software Development Bootcamp Course with Northcoders in October 2024
-- ⚡ Fun fact: I have run for England a couple of times 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+👋 Hi there, I'm Kate!
 
-<!---
-katehjd21/katehjd21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a Junior Software Developer with a background in Physiotherapy, now passionate about building high-quality software solutions. I recently completed the Northcoders JavaScript Bootcamp, where I gained hands-on experience in modern web development technologies, including JavaScript, React, and Node.js.
+
+🛠️ Technical Skills
+
+Languages & Frameworks
+JavaScript (ES6+), Node.js, React
+HTML5, CSS3 (Flexbox, Grid)
+Back-End & Databases
+SQL, PostgreSQL (PSQL), Database Seeding, Migrations
+
+Testing & Tools
+Test-Driven Development (TDD), Jest, Supertest
+Git, GitHub for version control
+Deployment & Hosting
+Cloudflare, Netlify
+Methodologies
+Agile, SCRUM, Paired Programming, Software Development Lifecycle (SDLC)
+Other
+Accessibility testing with Lighthouse
+Technical communication and collaboration
+
+🌟 Featured Projects
+
+Kates-NC-News
+A full-stack news aggregation app with article sharing and commenting features.
+Tech Stack: Node.js, React, PostgreSQL, Jest
+
+Kates-NC-News-FE
+The front-end application for NC-News, built with React and deployed on Netlify.
+
+React Data Visualization
+An interactive data visualization project showcasing insights with charts and graphs.
+
+
+📫 Connect with Me
+
+
+🔗 LinkedIn: Kate Drew
