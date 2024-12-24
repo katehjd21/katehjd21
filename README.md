@@ -1,6 +1,11 @@
 # 👋 **Hi there, I'm Kate!**
 
-Welcome to my GitHub! I'm a Trainee Software Developer with a background in Physiotherapy, now passionate about building high-quality software solutions. I'm currently completing the Northcoders JavaScript Bootcamp, where I'm gain hands-on experience in modern web development technologies, including JavaScript, React, and Node.js.
+Welcome to my GitHub! I'm a Trainee Software Developer with a background in Physiotherapy, now passionate about building high-quality software solutions. 
+
+✍️ I'm currently completing the Northcoders JavaScript Bootcamp, where I'm gain hands-on experience in modern web development technologies, including JavaScript, React, and Node.js.
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Fun Fact: I’ve had the privilege of running for England a couple of times! 🏃‍♀️
+
 
 ## 💻 **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
