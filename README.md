@@ -34,15 +34,18 @@ Welcome to my GitHub! I'm a Trainee Software Developer with a background in Phys
 
 
 ## 🌟 **Featured Projects**
-### 📌 Kates-NC-News
-A full-stack news aggregation app with article sharing and commenting features.
-🛠️ Tech Stack: Node.js, React, PostgreSQL, Jest
+### [📌 Kates-NC-News](https://github.com/katehjd21/Kates-NC-News.git)  
+A full-stack news aggregation app with article sharing and commenting features.  
+**🛠️ Tech Stack:** Node.js, React, PostgreSQL, Jest  
 
-### 📌 Kates-NC-News-FE
-The front-end application for NC-News, built with React and deployed on Netlify.
 
-### 📌 React Data Visualization
-An interactive data visualization project showcasing insights with charts and graphs.
+### [📌 Kates-NC-News-FE](https://github.com/katehjd21/Kates-NC-News-FE.git)  
+The front-end application for NC-News, built with React and deployed on Netlify.  
+
+
+### [📌 React Data Visualization](https://github.com/katehjd21/fe-react-data-visualisation.git)  
+A React-based project focused on presenting data in an interactive and visually appealing way.  
+ 
 
 ## 📫 **Connect with Me**
 
